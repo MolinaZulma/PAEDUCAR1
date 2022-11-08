@@ -1,0 +1,104 @@
+main
+{
+  
+    margin-top: 60px;
+    margin-left: 2vw;
+    margin-right: 2vw; 
+}
+
+h1
+{
+    border-bottom: solid;
+    border-width: 1px;
+    font-size: 3.5vh;
+    
+}
+
+.search_users
+{
+    display: block;
+    height:20vh;
+}
+
+.inpunt-usuario{
+    margin-top: 20px;
+    background-color: var(rgb(129, 129, 129));
+    text-align: center;
+    align-self: center; 
+    padding: 0.2rem;
+    border-radius: 1rem;
+    border-style:hidden;
+    border: 0.5px solid;
+    height: 7vh;
+    width: 80%;
+  
+}
+
+.button-buscar
+{
+    margin-top: 20px;
+    border-radius: 5px ;
+    border: none;
+    width: max-content;
+    padding:10px;
+    background-color: rgb(141, 214, 243);
+
+}
+
+.button-buscar:hover{
+   cursor: pointer;
+   background-color: rgba(222, 222, 222, 0.998);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.all_users
+{
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    display: block;
+}
+
+.table_all_users
+{
+    border-color: black;
+    border: solid;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+td
+{
+    border-color: black;
+    border: solid;  
+}
+
+tr
+{
+    border-color: black;
+    border: solid;
+}
+
+td
+{
+    border-color: black;
+    border: solid;
+}
